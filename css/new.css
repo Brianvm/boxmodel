@@ -1,0 +1,69 @@
+body {
+  margin: 0;
+  border: 0;
+}
+
+h1 {
+  color: white;
+  margin: 0;
+}
+
+.one {
+  background-color: orange;
+  width: 200px;
+  height: 200px;
+}
+
+.two {
+  background-color: green;
+  width: 250px;
+  height: 150px;
+  margin-left: 200px;
+}
+
+.three {
+  background-color: fuchsia;
+  width: 150px;
+  height: 175px;
+  margin-left: 450px;
+  border: 5px solid black;
+}
+
+.four {
+  background-color: black;
+  width: 50px;
+  height: 50px;
+  margin-left: 400px;
+}
+
+.five {
+  background-color: dodgerblue;
+  width:220px;
+  height: 275px;
+  margin-left: 400px;
+}
+
+.uno {
+  padding-left: 37.5px;
+  padding-top: 81.5px;
+}
+
+.dos {
+  padding-left: 70px;
+  padding-top: 56.5px;
+}
+
+.tres {
+  padding-left: 25px;
+  padding-top: 69px;
+}
+
+.cuatro {
+  padding-left: 15px;
+  padding-top: 6.5px;
+}
+
+.cinco {
+  padding-left: 55px;
+  padding-top: 119px;
+}
